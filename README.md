@@ -9,5 +9,6 @@ https://thepihut.com/blogs/raspberry-pi-tutorials/using-ifttt-with-the-raspberry
 https://www.hackster.io/postitman/iot_home_1-ba6ff8
 https://dev.to/webhookrelay/controlling-gadgets-with-google-home-ifttt-and-node-red-3ea2
 https://nodered.org/docs/getting-started/raspberrypi
+https://dev.to/webhookrelay/controlling-gadgets-with-google-home-ifttt-and-node-red-3ea2
 
 
