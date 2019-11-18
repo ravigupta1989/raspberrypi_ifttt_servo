@@ -14,3 +14,5 @@ https://dev.to/webhookrelay/controlling-gadgets-with-google-home-ifttt-and-node-
 Install the webhook relay module with npm and "-g" option. Then restart node-red
 
 https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/
+
+https://discourse.nodered.org/t/announce-node-red-contrib-webhookrelay/5989
