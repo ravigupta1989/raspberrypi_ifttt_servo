@@ -16,3 +16,9 @@ Install the webhook relay module with npm and "-g" option. Then restart node-red
 https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/
 
 https://discourse.nodered.org/t/announce-node-red-contrib-webhookrelay/5989
+
+Particle.io w/ raspberry pi 
+
+https://www.hackster.io/Salmanfarisvp/particle-raspberry-pi-caa234
+
+https://medium.com/@bnarasapur/google-assistant-controlled-home-light-with-a-raspberry-pi-with-ifttt-and-particle-io-c2715b90bd11
